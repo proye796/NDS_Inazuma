@@ -1,6 +1,6 @@
-# 이나즈마 일레븐 NDS 한국어 패치 v1.0.3
+# 이나즈마 일레븐 NDS 한국어 패치 v1.0.4
 
-배포일: 2026-11-05\
+배포일: 2026-11-08\
 대상: Inazuma Eleven 일본판 Rev 1 — YEEJ, revision 1
 
 배포 ZIP에는 원본 ROM이나 패치 완료 ROM이 포함되지 않습니다. 정품에서 추출한 아래 해시와 일치하는 일본판 NDS ROM이 필요합니다.
@@ -17,13 +17,13 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven-KO-v1.0.3.nds | 134,217,728 | 937175f9b35f6215e6690c7ce98886c1d1afa7550aff361cc863b258020d4c04 |
+| InazumaEleven-KO-v1.0.4.nds | 134,217,728 | 01adc293673b055c281ef4b0bdae7b4033f09c859746def364c74180e60745b7 |
 
-결과 SHA-1: `bb64427bd8bc8078b9adc0b0890347e3d493e164` (2026-11-05 표시 폭 수정 빌드 · v1.0.2까지의 수정 포함)
+결과 SHA-1: `b5610bab2441f0e12b6764fc39bf30e74a0a83c6` (2026-11-08 약칭 맞춤 빌드 · v1.0.3까지의 수정 포함)
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| InazumaEleven-KO-v1.0.3.zip | 2,603,979 | f4383d994d206bbdcb4929dcbe2784863c5f7d199daac2aa761bc54a77e422b1 |
-| InazumaEleven-KO-v1.0.3.bps | 3,114,936 | 48aa2e9209b0cfc27cf1e7ae28742978b66e7d3218581a06c186785b81fec5c6 |
+| InazumaEleven-KO-v1.0.4.zip | 2,604,261 | b2771741e7d45a16ace30ef08aa35eebdaa50562aa6cd875da88397e802c31ac |
+| InazumaEleven-KO-v1.0.4.bps | 3,114,876 | 287578a6abe93b5d8457b68bd24989c92d65bc78f998405b393d248752518aa4 |
